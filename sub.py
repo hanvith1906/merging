@@ -1,3 +1,5 @@
 a=10
 b=4
-print(a-b)
+c=(a-b)
+print(c)
+print(type(c))
